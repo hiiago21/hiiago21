@@ -1,4 +1,4 @@
-<img src="./pasta/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./pasta/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello, my name is Hiago I am <strong>FullStack Developer</strong> and <strong> an enthusiastic mobile developer</strong>.<br>
