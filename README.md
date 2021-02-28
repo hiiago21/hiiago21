@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Intelij, Figma, Versionamento Git.</strong>
+  💼 Tools: <strong>Visual Studio Code, Intelij, Figma, Git Cersioning.</strong>
 </p>
 
 <p align="left">
