@@ -1,24 +1,25 @@
 <img src="./pasta/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Hiago I am <strong>FullStack Developer</strong> and <strong> an enthusiastic mobile developer</strong>.<br>
+  Hello, my name is Hiago 🙋‍♂️ <br />
+  I am <strong>FullStack Developer </strong> and <strong> an enthusiastic mobile developer</strong>.<br />
   I am studying Computer Science.
 </p>
 
 <p align="left">
-  ✔️ Lenguagens: <strong>Java, JavaScript, Dart, Flutter, Node.js, HTML5, CSS3</strong>
+  ✔️ Languages: <strong>Java, JavaScript, Dart, Flutter, Node.js, HTML5, CSS3</strong>
 </p>
 
 <p align="left">
-  🦄 FrameWorks and Libs: <strong>SpringBoot, Lombok, Struct, Angular6+, MobX, Express, Nunjuck, PCF and others</strong>
+  🦄 FrameWorks and Libs: <strong>Quarkus, SpringBoot, Lombok, Struct, Angular 6+, MobX, Express, Nunjuck, PCF and others</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Intelij, Figma, Git Cersioning.</strong>
+  💼 Tools: <strong>Visual Studio Code, Intellij, Figma, Git Versioning.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+  💌 If you want to carry out a project with me (or just give a talk), please don't hesitate to send me a message via linkedin: ⤵️
 </p>
 
 <p align="left">
